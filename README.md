@@ -4,7 +4,7 @@ Dockerfile for [electrumx](https://github.com/kyuupichan/electrumx) on Ubuntu wi
 ## Usage
 ### Configuration
 ```
-git clone https://github.com/followtheart/electrumx-docker.git
+git clone https://github.com/AXErunners/electrumx-docker.git
 cd electrumx-docker
 ```
 
