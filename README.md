@@ -8,7 +8,7 @@ git clone https://github.com/followtheart/electrumx-docker.git
 cd electrumx-docker
 ```
 
-Edit `env/DAEMON_URL` accordingly.Need to match your daemon.
+Edit `env/DAEMON_URL` to match your AXE core settings.
 
 ### Run
 Run from docker hub:
