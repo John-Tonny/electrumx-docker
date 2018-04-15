@@ -1,5 +1,5 @@
 # electrumx-docker
-Dockerfile for [electrumx](https://github.com/kyuupichan/electrumx) on Ubuntu with leveldb and daemontools.
+Dockerfile for [electrumx](https://github.com/kyuupichan/electrumx) on Ubuntu with `leveldb` and `daemontools`.
 
 ## Usage
 ### Configuration
